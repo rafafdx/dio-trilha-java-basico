@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositório para exercícios de java básico da DIO
+Repositório do Desafio 1 DIO - ContaBanco.
